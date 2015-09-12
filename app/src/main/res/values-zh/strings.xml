@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameClient</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">你好</string>
+
+    <string name="str_chapter">文章</string>
+    <string name="str_forum">贴吧</string>
+    <string name="str_game">游戏</string>
+    <string name="str_commemt">评论</string>
+    <string name="str_commemt_list">评论列表</string>
+
+    <string name="str_back">返回</string>
+    <string name="str_charterd">文章详情</string>
+
+    <string name="str_com_ex">请输入评论内容</string>
+
+    <string name="str_com_succ">评论成功</string>
+    <string name="str_com_error">评论失败</string>
+
+    <string name="str_game_type">按照游戏类型分类</string>
+    <string name="str_all_game">全部</string>
+
+    <string name="str_no_net">当前无网络连接</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+
+    <string-array name="str_type">
+        <item>文章首页</item>
+        <item>新闻中心</item>
+        <item>游戏杂谈</item>
+        <item>硬件信息</item>
+        <item>游戏前瞻</item>
+        <item>游戏评测</item>
+        <item>原创精品</item>
+        <item>游戏盘点</item>
+        <item>时事焦点</item>
+        <item>攻略中心</item>
+    </string-array>
+
+    <string-array name="str_typeid">
+        <item>1</item>
+        <item>2</item>
+        <item>151</item>
+        <item>152</item>
+        <item>153</item>
+        <item>154</item>
+        <item>196</item>
+        <item>197</item>
+        <item>199</item>
+        <item>25</item>
+    </string-array>
+
+
+    <string-array name="str_game_type">
+        <item>全部</item>
+        <item>动作(ACT)</item>
+        <item>射击(FPS)</item>
+        <item>角色扮演(RPG)</item>
+        <item>养成(GAL)</item>
+        <item>益智(PUZ)</item>
+        <item>即时战略(RTS)</item>
+        <item>策略(SLG)</item>
+        <item>体育(SPG)</item>
+        <item>模拟经营(SIM)</item>
+        <item>赛车(RAC)</item>
+        <item>冒险(AVG)</item>
+        <item>动作角色(ARPG)</item>
+
+    </string-array>
+
+    <string-array name="str_game_typeid">
+        <item>179</item>
+        <item>181</item>
+        <item>182</item>
+        <item>183</item>
+        <item>184</item>
+        <item>185</item>
+        <item>186</item>
+        <item>187</item>
+        <item>188</item>
+        <item>189</item>
+        <item>190</item>
+        <item>191</item>
+        <item>192</item>
+    </string-array>
+
+
+</resources>
